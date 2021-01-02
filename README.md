@@ -2,6 +2,10 @@
 
 Simulação de materiais utilizando o Quantum Espresso
 
+Para plotar os resultados basta https://github.com/Rafael-Barbosa/Scripts-Gnuplot
+
+Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
+
 1-) Lattice-parameter --> Relaxação dos parâmetros de rede
 
 2-) Convergency --> Convergência dos parâmetros ecutwfc e kpoints
