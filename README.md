@@ -14,4 +14,4 @@ Simulação de materiais utilizando o Quantum Espresso
 
 5-) dos_pdos --> Cálculo das densidade de estados. 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Rafael-Barbosa/Quantum-Espresso/blob/main/Si-Fcc/band_structure/pwband.png)
