@@ -12,7 +12,7 @@ Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
 
 3-) (Com os parâmetros convergidos) - Entrar com os valores em scf
 
-4-) (Utilizando os resultados de scf) - Gerar as bandas eletrônicas --(nesse caso como o o cálculo scf é rápido, foi repetido)
+4-) (Utilizando os resultados de scf) - Gerar as bandas eletrônicas --(nesse caso como o cálculo scf é rápido, foi repetido)
 
 4.1-) Extra gerar a figura utilizando um script em python.
 
