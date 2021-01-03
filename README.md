@@ -51,7 +51,7 @@ Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
 
 ### Qe_Bands.sh --> Gerar dat para bandas eletrônicas
 
-### kpoints-qe.c --> Gerar pontos k para cálculo bands ("na mão")
+### kpoints-qe.c --> Gerar pontos k para cálculo das bandas ("na mão")
 
 ### RODAR.sh --> Script para entrar nas pastas e rodar RUN.sh
 
