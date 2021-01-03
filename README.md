@@ -23,7 +23,7 @@ Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
 ![alt text](https://github.com/Rafael-Barbosa/Quantum-Espresso/blob/main/Si-Fcc/band_structure/pwband.png)
 
 
-Graphene 
+## Graphene 
 
 --> Relaxação dos parâmtros de rede (lattice)
 
