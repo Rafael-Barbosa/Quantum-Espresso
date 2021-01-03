@@ -47,5 +47,13 @@ Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
 
 --> Relaxação das duas camadas de grafeno utilizando Without-VdW e VdW
 
+## Utilidades
 
+### Qe_Bands.sh --> Gerar dat para bandas eletrônicas
+
+### kpoints-qe.c --> Gerar pontos k para cálculo bands ("na mão")
+
+### RODAR.sh --> Script para entrar nas pastas e rodar RUN.sh
+
+### RUN.sh --> Editar ".in" precisa estar com scf editado corretamente
 
