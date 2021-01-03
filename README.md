@@ -41,4 +41,11 @@ Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
 
 --> Bandas Eletrônicas Spin-Up-Down
 
+![alt text](https://github.com/Rafael-Barbosa/Quantum-Espresso/blob/main/Fe2Se2/lattice/fe2se2-2d.png)
+
+## Graphene-Bilayer
+
+--> Relaxação das duas camadas de grafeno utilizando Without-VdW e VdW
+
+
 
