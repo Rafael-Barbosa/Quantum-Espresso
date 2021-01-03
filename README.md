@@ -6,6 +6,8 @@ Para plotar os resultados basta https://github.com/Rafael-Barbosa/Scripts-Gnuplo
 
 Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
 
+## Si-FCC
+
 1-) Lattice-parameter --> Relaxação dos parâmetros de rede
 
 2-) Convergency --> Convergência dos parâmetros ecutwfc e kpoints
@@ -19,3 +21,17 @@ Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
 5-) dos_pdos --> Cálculo das densidade de estados. 
 
 ![alt text](https://github.com/Rafael-Barbosa/Quantum-Espresso/blob/main/Si-Fcc/band_structure/pwband.png)
+
+
+Graphene 
+
+--> Relaxação dos parâmtros de rede (lattice)
+
+--> Densidade de Estados (pdos)
+
+--> Cálculo de fônos (phonos)
+
+--> Bandas eletrônicas (scf-bands)
+
+--> Utilização do vc-relax
+
