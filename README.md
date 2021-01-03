@@ -35,3 +35,10 @@ Se quiser mais detalhes https://www.youtube.com/watch?v=Wzp0pLnWKcU&t=1653s
 
 --> Utilização do vc-relax
 
+## Fe2Se2
+
+--> Relaxação dos parâmtros utilizando FM, AFM e NM. (lattice)
+
+--> Bandas Eletrônicas Spin-Up-Down
+
+
